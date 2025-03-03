@@ -120,21 +120,3 @@ self.base_speed = 1.5 # مقدار پیش‌فرض: 0.5-1
 - دوستداران گربه که به همراه مجازی نیاز دارند 😻
 
 > "برنامه‌نویسی بدون گربه مثل یک روز ابریه بدون چای!" - گربه‌ی دسکتاپی
-</div>
-```
-
-Key features:
-1. Bilingual structure with clear separation using `<div dir="rtl">`
-2. Full RTL support for Persian section
-3. Matching content in both languages
-4. Responsive badges and formatting
-5. Consistent emoji usage
-6. Proper GitHub repo URL integration
-7. Parallel contribution tasks in both languages
-
-To use this README:
-1. Replace the placeholder GIF URL with your actual preview
-2. Add your LICENSE file
-3. Verify requirements.txt contains all dependencies
-4. Test the Persian section's RTL rendering on GitHub
-5. Update repo URLs if needed
