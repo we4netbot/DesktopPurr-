@@ -1,68 +1,28 @@
-DesktopPurr 🐾
-A mischievous PyQt5 desktop cat that roams your screen, reacts to clicks, and brings digital joy!
+# DesktopPurr 🐾
 
-Key Features:
+**یک گربه شیطون دسکتاپی که روی صفحه شما پرسه میزنه، به کلیک واکنش نشون میده و حال خوب دیجیتالی میاره!**
 
-🐱‍💻 Screen Wanderer: Autonomous movement with physics-based collisions
+![Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN6N2x5eHd1eGx4d3B4a2N0ZGNkNjVlYjJ5b3BqYzRtc2V6eXZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICOgUNjpvO0PC/giphy.gif)  
+*(یک GIF انیمیشن از حرکت گربه و تعامل با آن)*
 
-🔄 Personality Modes: Switches between exploring/resting states randomly
+## ✨ ویژگی‌های کلیدی
+- 🐱‍💻 **گردشگر صفحه**: حرکت خودمختار با سیستم برخورد فیزیکی
+- 🔄 **حالت‌های شخصیتی**: تغییر تصادفی بین حالت‌های کاوش/استراحت
+- 🔊 **میوهای تعاملی**: پخش صدای تصادفی گربه با هر کلیک (۸ میوی منحصر به فرد!)
+- 🖱️ **حالت شبح**: پنجره کاملاً شفاف و قابل کلیک-گذری
+- 🎮 **رفتار شبه-هوشمند**:  
+  - تغییر جهت و سرعت تصادفی  
+  - تشخیص لبه‌ها و مکانیک برگشت  
+  - الگوهای حرکت طبیعی (سرعت‌های متغیر)
 
-🔊 Interactive Meows: Plays random cat sounds on click (8 unique meows!)
+## 🛠 فناوری‌های استفاده شده
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![PyQt5](https://img.shields.io/badge/PyQt5-5.15%2B-green?logo=qt)
+![License](https://img.shields.io/badge/License-MIT-purple)
 
-🖱️ Ghost Mode: Fully transparent/click-through window
-
-🎮 AI-ish Behavior:
-
-Random direction/speed changes
-
-Edge detection & bounce mechanics
-
-Natural movement patterns (variable speeds)
-
-Tech Stack:
-
-Python 3 + PyQt5
-
-QtMultimedia for sound
-
-Mathematical motion modeling
-
-Multi-timer animation system
-
-Install:
-
-bash
-Copy
-git clone https://github.com/yourusername/DesktopPurr.git
+## 🚀 نصب و اجرا
+```bash
+git clone https://github.com/we4netbot/DesktopPurr-.git
+cd DesktopPurr-
 pip install -r requirements.txt
 python main.py
-Customize:
-
-Add your own cat sprites in /assets/img
-
-Modify movement parameters in code
-
-Create new sound effects in /assets/wav
-
-A perfect companion for developers who want some purr-fect distraction during coding sessions!
-
-Preview (add animated GIF showing cat movement + click interaction)
-Contributions:
-
-Add auto-start functionality
-
-Create Windows/Linux packaging
-
-Implement sleep/wake animations
-
-Meow-tastic for:
-
-PyQt5 learners 🐍
-
-Desktop pet enthusiasts 🖥️
-
-Cat lovers needing digital pets 😻
-
-License: MIT (Catnipware - use freely but must provide virtual treats)
-
-This description combines technical details with playful cat-themed language while highlighting both the fun and educational aspects of the project! 🐈‍⬛
