@@ -1,11 +1,8 @@
-Here's the bilingual README.md with English first followed by Persian:
-
-```markdown
 # DesktopPurr 🐾
 
 **A mischievous desktop cat that roams your screen, reacts to clicks, and brings digital joy!**
 
-![Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN6N2x5eHd1eGx4d3B4a2N0ZGNkNjVlYjJ5b3BqYzRtc2V6eXZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICOgUNjpvO0PC/giphy.gif)  
+![Preview](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c4cWxqbDNmZGZjeWRpd2M1ZTUyOGlpZm8xYjg5azZpejJxa3E1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Cr71vflxfGFO/giphy.gif)  
 *(Animated GIF showing cat movement and interaction)*
 
 ## ✨ Key Features
@@ -69,7 +66,7 @@ Released under **MIT License** - see [LICENSE](LICENSE) file for details.
 
 **یک گربه شیطون دسکتاپی که روی صفحه شما پرسه میزنه، به کلیک واکنش نشون میده و حال خوب دیجیتالی میاره!**
 
-![پیش‌نمایش](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN6N2x5eHd1eGx4d3B4a2N0ZGNkNjVlYjJ5b3BqYzRtc2V6eXZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICOgUNjpvO0PC/giphy.gif)  
+![پیش‌نمایش](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c4cWxqbDNmZGZjeWRpd2M1ZTUyOGlpZm8xYjg5azZpejJxa3E1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Cr71vflxfGFO/giphy.gif)  
 *(گیف انیمیشنی از حرکت گربه و تعامل با آن)*
 
 ## ✨ ویژگی‌های کلیدی
