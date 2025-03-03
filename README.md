@@ -4,8 +4,6 @@
 
 ![Preview](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c4cWxqbDNmZGZjeWRpd2M1ZTUyOGlpZm8xYjg5azZpejJxa3E1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Cr71vflxfGFO/giphy.gif)
 
-*(یک GIF انیمیشن از حرکت گربه و تعامل با آن)*
-
 ## ✨ ویژگی‌های کلیدی
 - 🐱‍💻 **گردشگر صفحه**: حرکت خودمختار با سیستم برخورد فیزیکی
 - 🔄 **حالت‌های شخصیتی**: تغییر تصادفی بین حالت‌های کاوش/استراحت
